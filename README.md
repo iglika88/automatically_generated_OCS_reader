@@ -4,7 +4,7 @@ This repository complements the project "Automatic Generation of a Graded Reader
 
 ## Content 
 Classical Language Readers.pdf 
-Information about the utilised professional graded readers of Classical Languages (Latin, Greek, Hebrew) 
+Information about the utilised professional graded readers of classical Languages (Latin, Greek, Hebrew) 
 
 
 
