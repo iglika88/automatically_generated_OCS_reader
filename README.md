@@ -1,5 +1,5 @@
 # automatically_generated_OCS_reader
-This repository complements the project "Automatic Generation of a Graded Reader in Old Church Slavonic".
+This repository complements the project "Automatic Generation of Graded Texts in Old Church Slavonic".
 
 
 ## Content
