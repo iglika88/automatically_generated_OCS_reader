@@ -20,7 +20,7 @@ Alexander V. Rystenko, Legenda o sv. Georgii i drakone v vizantiiskoi i slaviano
 [Graded_Readers_Multilingual_A1_B1.pdf](Graded_Readers_Multilingual_A1_B1.pdf)   
 A description of the multilingual graded readers of levels A1 and B1 used in experimentation with mT5 task tuning.
 
-[French_extract_to_abridge.txt](French_extract_to_abridge.txt)
+[French_extract_to_abridge.txt](French_extract_to_abridge.txt)  
 The French-language extract used within the experimentation with textual adaptation using mT5. 
 
 
