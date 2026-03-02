@@ -10,3 +10,6 @@ Information about the utilised professional graded readers of classical language
 [output OCS texts.pdf](output%20OCS%20texts.pdf)  
 The OCS texts as originally ouput by ChatGPT (GPT-5) as well as their manually improved versions
 
+[OCS_original_texts.pdf](OCS_original_texts.pdf)  
+The original OCS texts used in the prompt to ChatGPT
+
