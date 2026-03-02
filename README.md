@@ -15,7 +15,5 @@ The original OCS texts used in the prompt to ChatGPT
 
 Sources:
 
-Tomáš Spevák, Old Slavic Library.
-
-Alexander V. Rystenko, Legenda o sv. Georgii i drakone v vizantiiskoi i slaviano-russkoi literaturakh (Odessa: Ekon, 1909).
+Tomáš Spevák, Old Slavic Library. //Alexander V. Rystenko, Legenda o sv. Georgii i drakone v vizantiiskoi i slaviano-russkoi literaturakh (Odessa: Ekon, 1909).
 
