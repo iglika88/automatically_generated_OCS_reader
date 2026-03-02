@@ -17,3 +17,7 @@ Sources:
 Tomáš Spevák, Old Slavic Library.  
 Alexander V. Rystenko, Legenda o sv. Georgii i drakone v vizantiiskoi i slaviano-russkoi literaturakh (Odessa: Ekon, 1909).
 
+[Graded_Readers_Multilingual_A1_B1.pdf](Graded_Readers_Multilingual_A1_B1.pdf)   
+A description of the multilingual graded readers of levels A1 and B1 used in experimentation with mT5 task tuning.
+
+
